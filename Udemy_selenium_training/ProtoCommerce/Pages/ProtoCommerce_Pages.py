@@ -28,7 +28,14 @@ class Locators:
     label_radio_button3="//div/label[contains(text(),'Entrepreneur (disabled)')]"
     label_dob1="//div/label[contains(text(),'Date of Birth')]"
     label_data_binding="//h4[contains(text(),'Two-way Data Binding example:')]"
-
+    
+    #git practice
+    
+    label_radio_button1 = "//div/label[contains(text(),'Employed')]"
+    label_radio_button2 = "//div/label[contains(text(),'Student')]"
+    label_radio_button3 = "//div/label[contains(text(),'Entrepreneur (disabled)')]"
+    label_dob1 = "//div/label[contains(text(),'Date of Birth')]"
+    label_data_binding = "//h4[contains(text(),'Two-way Data Binding example:')]"
 
 
 
